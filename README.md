@@ -1,7 +1,7 @@
 # SpringBoot-SpringSecurity
 
 ### 序言
-一个半吊子水平的程序员参考一些网上的资料整理出来的东西，有什么好的建议或批评，请务必issue下。<br/>
+参考一些网上的资料整理出来的东西，有什么好的建议或批评，请务必issue下。<br/>
 项目地址：https://github.com/Neal-yangyi/SpringBoot-SpringSecurity
 
 ### 准备工作
