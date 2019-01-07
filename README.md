@@ -1,4 +1,4 @@
-# SpringBoot-SpringSecurity
+# SpringBoot+SpringSecurity简易教程
 
 ### 序言
 参考一些网上的资料整理出来的东西，有什么好的建议或批评，请务必issue下。<br/>
